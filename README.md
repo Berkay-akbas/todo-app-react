@@ -1,31 +1,69 @@
-## React Tutorial – The Beginners Guide to Learning React JS in 2020
+# To-do App with React
 
-[To follow this React tutorial](https://ibaslogic.com/blog/react-tutorial-for-beginners/)
+> A simple single page To-do App. Built with React.
 
-### Clone the starter project
+## Built With
 
-You can download or clone this project by running this command from your terminal:
+- React
+- CSS
+- Gitflow
 
-```
-git clone https://github.com/Ibaslogic/react-todo-app
-```
+## Live Demo
 
-This will create a directory in the name of the project folder.
+For the live demo click [here](https://berkay-akbas.github.io/todo-app-react/#/)
 
-Once you have the project files and folders bootstrapped, open it with your text editor.
+## Authors
 
-Next, switch inside the project directory and run:
+👤 **Berkay Akbas**
 
-```
-npm install
-```
+- GitHub: [@berkay-akbas](https://github.com/Berkay-akbas)
+- LinkedIn: [Berkay Akbas](https://www.linkedin.com/in/berkay-akbas-a03b3b239/)
 
-This will install all the necessary dependencies in the local `node_modules` folder.
+## Getting Started
 
-Finally, start your development server by running:
+To get a local copy up and running follow these simple example steps.
 
-```
-npm start
-```
+- Clone this repository with git clone`git@github.com:Berkay-akbas/todo-app-react.git` using your terminal or command line.
+- Change to the project directory by entering : <br>
+  `cd todo-app-react` in the terminal.
 
-You should see the app in your browser address bar at [http://localhost:3000](http://localhost:3000)
+### Prerequisites
+
+You need to make sure to have installed the latest version of Node.js and npm on your computer.
+
+### Setup
+
+You can clone this repository or simply download the files as a .zip
+If you want to set up a personal repository based on this one, you can as well fork it.
+
+### Install
+
+After clone it and before working on it, you have to run `npm install` so that all the dependencies of the project get downloaded in your pc locally.
+Such dependencies include webpack and linters checks, for which you have to either generate your own config file or get one.
+
+- `npm run build`
+- `npm run start`
+
+### Run tests
+
+- `npx hint .`
+- `npx stylelint "**/*.scss"`
+- `npx eslint .`
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- Microverse
+
+## 📝 License
+
+This project is [MIT](./MIT.md) licensed.
